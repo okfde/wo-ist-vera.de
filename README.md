@@ -1,9 +1,8 @@
-# Transparenzranking.de
+# wo-ist-vera.de
 
-[![Build status](https://github.com/okfde/transparenzranking.de/actions/workflows/build.yml/badge.svg)](https://github.com/okfde/transparenzranking.de/actions/workflows/build.yml)
+[![Build status](https://github.com/okfde/wo-ist-vera.de/actions/workflows/build.yml/badge.svg)](https://github.com/okfde/wo-ist-vera.de/actions/workflows/build.yml)
 
-[Transparenzranking.de](https://transparenzranking.de) vergleicht alle
-Transparenzregelungen Deutschlands.
+[wo-ist-vera.de](https://wo-ist-vera.de) macht den Umgang aller Bundesländer mit VERgleichsArbeiten transparent.
 
 ## Setup
 
