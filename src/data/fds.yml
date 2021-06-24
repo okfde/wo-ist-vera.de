@@ -9,49 +9,49 @@
   slug: bund
   law: bundes-informationsfreiheitsgesetz
 - id: 91
-  slug: baden-wuerttemberg
+  slug: ministerium-fur-kultus-jugend-und-sport-baden-wurttemberg
   blog: baden-wurttemberg
   law: informationsfreiheitsgesetz-baden-wurttemberg-ifg
 - id: 92
-  slug: bayern
+  slug: bayerisches-staatsministerium-fur-bildung-und-kultus-wissenschaft-und-kunst
 - id: 4
-  slug: berlin
+  slug: senatsverwaltung-fur-bildung-jugend-und-wissenschaft
   law: ifg-berlin
 - id: 3
-  slug: brandenburg
+  slug: ministerium-fur-bildung-jugend-und-sport
   law: aig-brandenburg
 - id: 12
-  slug: bremen
+  slug: die-senatorin-fur-bildung-und-wissenschaft-bremen
   law: bremer-informationsfreiheitsgesetz-bremifg
 - id: 5
-  slug: hamburg
+  slug: behorde-fur-schule-und-berufsbildung
   law: hamburgisches-transparenzgesetz-hmbtg
 - id: 94
-  slug: hessen
+  slug: hessisches-kultusministerium
   law: hessisches-datenschutz-und-informationsfreiheitsgesetz-hdsig
 - id: 7
-  slug: mecklenburg-vorpommern
+  slug: ministerium-fur-bildung-wissenschaft-und-kultur
   law: lifg-mv
 - id: 93
-  slug: niedersachsen
+  slug: niedersachsisches-kultusministerium-mk
 - id: 2
-  slug: nrw
+  slug: ministerium-fur-schule-und-weiterbildung-des-landes-nrw
   law: ifg-nrw
 - id: 6
-  slug: rheinland-pfalz
+  slug: ministerium-fur-bildung
   law: landesgesetz-uber-die-freiheit-des-zugangs-zu-informationen-rheinland-pfalz
 - id: 9
-  slug: saarland
+  slug: ministerium-fur-bildung-und-kultur-saarland
   law: saarlandisches-informationsfreiheitsgesetz-sifg
 - id: 89
-  slug: sachsen
+  slug: sachsisches-staatsministerium-fur-kultus
 - id: 13
-  slug: sachsen-anhalt
+  slug: landesinstitut-fur-schulqualitat-und-lehrerbildung-sachsen-anhalt
   law: informationszugangsgesetz-sachsen-anhalt-izg-lsa
 - id: 11
-  slug: schleswig-holstein
+  slug: ministerium-fur-schule-und-berufsbildung-schleswig-holstein
   law: informationszugangsgesetz-fur-das-land-schleswig-holstein-izg-sh
 - id: 10
-  slug: thueringen
+  slug: thuringer-ministerium-fur-bildung-wissenschaft-und-kultur
   blog: thuringen
   law: thuringer-transparenzgesetz-thurifg

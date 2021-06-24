@@ -16,9 +16,9 @@
           </template>
           <template v-else>
             {{ law }} seit {{ state.year }}.
-
+            Die Punktzahl ist nicht zufriedenstellend?
             <a
-              :href="`https://fragdenstaat.de/zustaendigkeit/${state.fds.slug}/`"
+              :href="`https://fragdenstaat.de/behoerde/${state.fds.slug}/`"
               class="link whitespace-nowrap"
             >
               Anfrage stellen
@@ -55,22 +55,8 @@
       </tr>
     </table>
 
-    <div class="prose prose-lg my-8">
-      <div v-html="state.description" />
-
-      <p>
-        <a
-          :href="`https://fragdenstaat.de/blog/tag/${
-            state.fds.blog || state.fds.slug
-          }`"
-        >
-          → Aktuelles zu {{ state.name }} im FragDenStaat-Blog
-        </a>
-      </p>
-    </div>
-
     <state-details v-if="state.criteria" :performance="performance" />
-    <state-stats :state="state" class="mt-12" />
+
   </div>
 </template>
 

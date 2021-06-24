@@ -1,13 +1,10 @@
 <template>
   <div class="container flex flex-col items-center">
-    <h1 class="headline">Transparenzranking</h1>
+    <h1 class="headline">Transparenz für Vergleichsarbeiten</h1>
 
     <div class="prose prose-lg text-center">
       <p class="max-w-screen-lg w-full text-center">
-        Jede Person hat das Recht auf staatliche Informationen - doch die
-        Umsetzung dieses Rechts unterscheidet sich innerhalb Deutschlands. Wir
-        haben erstmalig die Informationsfreiheits- und Transparenzgesetze in
-        Bund und Ländern miteinander verglichen.
+        VERA - VERgleichsArbeiten - sind standardisierte Kompetenzerhebungen, die länderübergreifend Lernstände festhalten. Mit ihnen lässt sich der Erfolg bildungspolitischer Maßnahmen bestimmen. Doch sie stehen unter Verschluss. Wir veröffentlichen die Daten zu folgenden Kompetenzen:
       </p>
     </div>
 

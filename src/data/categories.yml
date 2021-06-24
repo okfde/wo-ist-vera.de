@@ -1,48 +1,21 @@
 - title: Gesamt
   slug: gesamt
-  color: '#6dffd4'
+  color: '#000000'
   description:
-    Klicken Sie auf ein Bundesland oder eine Rankingkategorie, um mehr zu
+    Klicken Sie auf ein Bundesland oder eine Kategorie, um mehr zu
     erfahren.
-- title: Informationsrechte
-  slug: informationsrechte
-  color: '#ffe500'
+- title: Auflösung der Daten
+  slug: aufloesung
+  color: '#FDEB1D'
   description:
-    Informationsrechte umfassen den grundsätzlichen Anspruch auf Informationen
-    sowie die Verpflichtung zur aktiven Veröffentlichung von Informationen. Auch
-    die Aktenführung ist Teil dieser Kategorie.
-- title: Auskunftspflichten
-  slug: auskunftspflichten
-  color: '#f7a600'
+    ... ist so und so definiert.
+- title: Vollständigkeit der Daten
+  slug: vollstaendigkeit
+  color: '#ED6B1C'
   description:
-    Auskunftspflichten regeln, welche Behörden Auskunft erteilen müssen. In
-    vielen Bundesländern sind öffentliche Stellen wie Hochschulen oder der
-    Verfassungsschutz von der Auskunftspflicht ausgenommen.
-- title: Ausnahmen
-  slug: ausnahmen
-  color: '#596b01'
+    ... ist so und so definiert.
+- title: Transparenz der Daten
+  slug: qualitaet
+  color: '#637EBE'
   description:
-    Diese Kategorie bewertet Ausnahmen wie Gefährdung der öffentlichen
-    Sicherheit oder Geschäftsgeheimnisse. Wenn sie einer Auskunft
-    entgegenstehen, müssen sie mit dem öffentlichen Interesse abgewogen werden.
-- title: Antragstellung
-  slug: antragstellung
-  color: '#9a0052'
-  description:
-    Es muss Menschen besonders leicht gemacht werden, Anträge an Behörden
-    elektronisch und anonym zu stellen. Diese Kategorie berücksichtigt außerdem
-    Antwortfristen und Sanktionen bei Fehlverhalten.
-- title: Gebühren
-  slug: gebuehren
-  color: '#009ee3'
-  description:
-    Hohe Gebühren für Anträge sind der größte Hinderungsgrund für
-    Informationsfreiheit. Daher vergleicht diese Kategorie die Regelungen zu
-    Kosten und Gebührenfreiheit. Je höher die Punktzahl, desto besser.
-- title: Informationsfreiheitsbeauftragte
-  slug: informationsfreiheitsbeauftragte
-  color: '#6ddecb'
-  description:
-    Die Beauftragten für Informationsfreiheit sollen als unabhängige Stellen
-    zwischen BürgerInnen und Behörden vermitteln und effektiv die Einhaltung der
-    Informationsfreiheitsgesetze beobachten.
+    ... ist so und so definiert.

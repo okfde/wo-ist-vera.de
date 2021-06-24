@@ -3,14 +3,16 @@
     <div class="flex items-center text-blue">
       <div class="md:w-1/4">
         <router-link to="/">
-          <img src="../assets/img/logo.svg" alt="Logo" />
+          <img src="../assets/img/logo.png" alt="Logo" />
         </router-link>
       </div>
+      <!--
       <div class="w-1/2 hidden lg:flex justify-center">
         <router-link to="/">
-          <h1 class="text-xl font-bold">Transparenzranking Deutschland</h1>
+          <h1 class="text-xl font-bold">Wo ist VERA?</h1>
         </router-link>
       </div>
+      -->
       <div class="flex-1 md:w-1/4 flex justify-end">
         <div class="menu-link">
           <router-link to="/laender/" title="Zur Länderübersicht...">
@@ -25,7 +27,7 @@
           <option value="choose" disabled>Bundesland wählen...</option>
           <option v-for="state in states" :key="state.name" :value="state.slug">
             {{ state.name }}
-            {{ state.type === false ? '(kein IFG)' : '' }}
+            {{ state.type === false ? '(keine Daten)' : '' }}
           </option>
         </select>
       </div>

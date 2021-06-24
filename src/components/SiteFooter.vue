@@ -2,7 +2,7 @@
   <footer class="bg-darkblue text-light">
     <div class="max-w-screen-xl mx-auto px-4 py-8">
       <h2 class="text-3xl mb-8 mt-2 md:mt-8 font-semibold">
-        Über das Transparenzranking
+        Über <i>Wo ist VERA?</i>
       </h2>
 
       <div class="w-full prose prose-md prose-dark">
@@ -44,17 +44,7 @@
                   alt="Open Knowledge Foundation Deutschland e.V."
                 />
               </a>
-              <a
-                href="https://www.mehr-demokratie.de/"
-                target="_blank"
-                class="w-1/2"
-              >
-                <img
-                  class="object-contain max-h-16"
-                  src="../assets/img/mehr-demokratie.jpg"
-                  alt="Mehr Demokratie e.V."
-                />
-              </a>
+            
             </div>
           </div>
         </div>
@@ -63,12 +53,6 @@
           <div>
             <h3>Downloads</h3>
             <div class="footer-grid">
-              <p>
-                <i-mdi-file-pdf-outline class="mr-1" />
-                <a href="/static/files/ifg-ranking.pdf"
-                  >Die Broschüre zum Ranking</a
-                >
-              </p>
               <p>
                 <i-mdi-github class="mr-1" />
                 <a href="https://github.com/okfde/transparenzranking.de"
