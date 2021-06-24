@@ -1,4 +1,4 @@
-# wo-ist-vera.de
+# Wo-ist-VERA.de
 
 [![Build status](https://github.com/okfde/wo-ist-vera.de/actions/workflows/build.yml/badge.svg)](https://github.com/okfde/wo-ist-vera.de/actions/workflows/build.yml)
 
