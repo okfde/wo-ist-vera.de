@@ -2,3 +2,16 @@ name: Niedersachen
 short: NI
 type: false
 fdsId: 93
+criteria:
+  - title: Transparenz der Daten
+    points: 0
+    citation: ''
+    limitation:
+  - title: Vollständigkeit der Daten
+    points: 0
+    citation: ''
+    limitation:
+  - title: Auflösung der Daten
+    points: 0
+    citation: ''
+    limitation:

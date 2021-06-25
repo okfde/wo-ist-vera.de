@@ -2,3 +2,16 @@ name: Sachsen
 short: SN
 type: false
 fdsId: 13
+criteria:
+  - title: Transparenz der Daten
+    points: 0
+    citation: ''
+    limitation:
+  - title: Vollständigkeit der Daten
+    points: 0
+    citation: ''
+    limitation:
+  - title: Auflösung der Daten
+    points: 0
+    citation: ''
+    limitation:
