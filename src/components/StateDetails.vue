@@ -54,10 +54,10 @@
         </template>
       </template>
     </template>
-    <div class="btn-wrap">
-       <a class="btn" href="">Zu den Daten</a>
-    </div>
   </div>
+            <div class="btn-wrap">
+               <a class="btn black" href="">Zu den Daten</a>
+            </div>
 </template>
 
 <script setup>
