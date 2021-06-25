@@ -5,14 +5,14 @@ type: tg
 fdsId: 10
 criteria:
   - title: Transparenz der Daten
-    points: 0
+    points: 3
     citation: ''
     limitation:
   - title: Vollständigkeit der Daten
-    points: 0
+    points: 10
     citation: ''
     limitation:
   - title: Auflösung der Daten
-    points: 0
+    points: 1
     citation: ''
     limitation:

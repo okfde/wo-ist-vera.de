@@ -5,11 +5,11 @@ type: ifg
 fdsId: 13
 criteria:
   - title: Transparenz der Daten
-    points: 1
+    points: 3
     citation: ''
     limitation:
   - title: Vollständigkeit der Daten
-    points: 4
+    points: 2
     citation: ''
     limitation:
   - title: Auflösung der Daten

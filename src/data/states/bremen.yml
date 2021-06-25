@@ -2,6 +2,7 @@ name: Bremen
 short: HB
 year: 2006
 updated: 2015
+data: false
 type: ifg
 fdsId: 12
 criteria:

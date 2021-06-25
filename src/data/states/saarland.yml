@@ -4,6 +4,7 @@ year: 2006
 updated: 2015
 type: ifg
 fdsId: 9
+data: false
 criteria:
   - title: Transparenz der Daten
     points: 0

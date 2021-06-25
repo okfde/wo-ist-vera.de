@@ -6,14 +6,14 @@ type: ifg
 fdsId: 4
 criteria:
   - title: Transparenz der Daten
-    points: 1
+    points: 3
     citation: ''
     limitation:
   - title: Vollständigkeit der Daten
-    points: 10
+    points: 6
     citation: ''
     limitation:
   - title: Auflösung der Daten
-    points: 1
+    points: 2
     citation: ''
     limitation:

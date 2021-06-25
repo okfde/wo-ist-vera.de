@@ -44,23 +44,6 @@
 
           <slide-up-down :active="visible(detail)" class="criteria-details">
             <div>
-              <p>
-                <strong>Fundstelle: </strong>
-
-                <a
-                  v-if="detail.citationLink"
-                  :href="detail.citationLink"
-                  v-text="detail.citation"
-                  title="Zum Gesetzestext..."
-                  class="link"
-                  target="_blank"
-                />
-                <span v-else v-text="detail.citation" />
-              </p>
-              <p v-if="detail.limitation">
-                <strong>Einschränkung:</strong>
-                {{ detail.limitation }}
-              </p>
 
               <p>
                 <strong>Kriterienbeschreibung:</strong>
@@ -71,6 +54,9 @@
         </template>
       </template>
     </template>
+    <div class="btn-wrap">
+       <a class="btn" href="">Zu den Daten</a>
+    </div>
   </div>
 </template>
 

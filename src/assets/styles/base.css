@@ -64,3 +64,102 @@
 .fade-enter-from {
   opacity: 0;
 }
+
+.btn-wrap{
+    padding-top: 60px;
+}
+
+.btn{
+
+   @include box();
+   cursor:pointer;
+   text-align: center;
+   min-width: 200px;
+
+   margin-bottom: 10px;
+
+   font-size: 1.2em;
+   padding: 10px 40px;
+
+   /*defaults to white*/
+
+   &:visited{
+     color: $white;
+     border: 2px solid $white;
+     background-color: transparent !important;
+   }
+
+   color: $white;
+   border: 2px solid $white;
+   background-color: transparent !important;
+   width: auto;
+
+   text-transform: uppercase;
+
+   &:hover{
+     color: $black !important;
+     background-color: $white;
+     border: 2px solid $white;
+   }
+
+   &.inactive{
+     pointer-events: none;
+     opacity: 0.3;
+   }
+
+   @include transition(all .25s ease);
+
+   &.black{
+     color: $black !important;
+     border: 2px solid $black;
+
+     &:visited{
+       color: $black !important;
+       border: 2px solid $black;
+     }
+
+     &:hover{
+       color: $white !important;
+       background-color: $black !important;
+       border: 2px solid $black;
+     }
+
+   }
+
+   &.white{
+     color: $white !important;
+     border: 2px solid $white;
+
+     &:visited{
+       color: $white !important;
+       border: 2px solid $white;
+     }
+
+
+     &:hover{
+       color: $black !important;
+       background-color: $white !important;
+       border: 2px solid $white;
+     }
+
+   }
+
+   &.blue{
+     color: $secondary-color !important;
+     border: 2px solid $secondary-color;
+
+     &:visited{
+       color: $secondary-color !important;
+       border: 2px solid $secondary-color;
+     }
+
+
+     &:hover{
+       color: white !important;
+       background-color: $secondary-color !important;
+       border: 2px solid $secondary-color;
+     }
+
+   }
+
+ }
