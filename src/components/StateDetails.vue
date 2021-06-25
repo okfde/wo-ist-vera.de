@@ -56,7 +56,7 @@
     </template>
   </div>
             <div class="btn-wrap">
-               <a class="btn black" href="">Zu den Daten</a>
+               <a class="btn black" href="https://www.github.com">Zu den Daten</a>
             </div>
 </template>
 

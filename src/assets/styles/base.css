@@ -68,6 +68,9 @@
 .btn-wrap{
     padding-top: 60px;
     text-align: center;
+    a{
+        color: black;
+    }
 }
 
 .btn{

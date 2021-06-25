@@ -2,6 +2,7 @@ name: Niedersachen
 short: NI
 type: false
 data: false
+datalink: https://www.test.de
 fdsId: 93
 criteria:
   - title: Transparenz der Daten
