@@ -56,7 +56,9 @@
     </table>
 
     <state-details v-if="state.criteria" :performance="performance" />
-
+    <div class="btn-wrap" v-if="state.datalink">
+       <a class="btn black" :href="`${state.datalink}`">Zu den Daten</a>
+    </div>
   </div>
 </template>
 
