@@ -10,7 +10,7 @@ const MAP = path.join(__dirname, 'src/data/map.svg');
 let handle;
 
 const scale = chroma
-  .scale(['#9a0052', '#f7a600', '#6dffd4'])
+  .scale(['#FDEB1D', '#ED6B1C', '#637EBE'])
   .mode('lch')
   .colors(100);
 

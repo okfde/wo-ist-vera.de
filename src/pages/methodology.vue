@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1 class="mb-0 headline">Was braucht ein gutes Transparenzgesetz?</h1>
+    <h1 class="mb-0 headline">Wie sollten die VERA-Daten veröffentlicht werden?</h1>
 
     <div class="prose prose-lg mt-4">
       <h2>Unsere Kriterien</h2>
@@ -23,7 +23,7 @@
         mögliche Höchstpunktzahl von 100 Prozent.
       </p>
 
-      <methodology-heading :category="getCategory('informationsrechte')" />
+      <methodology-heading :category="getCategory('qualitaet')" />
 
       <p>
         Das stärkste Gewicht in dieser Kategorie hat die erstmals in Hamburg
@@ -39,7 +39,7 @@
         Informationsfreiheitsgesetz und das Recht auf Kopien.
       </p>
 
-      <methodology-heading :category="getCategory('auskunftspflichten')" />
+      <methodology-heading :category="getCategory('vollstaendigkeit')" />
       <p>
         Aufgaben der Daseinsvorsorge sind oft in städtische Unternehmen
         ausgelagert und werden nicht von den Verwaltungen wahrgenommen. Dies
@@ -50,7 +50,7 @@
         Transparenz-Anspruch umfasst sein.
       </p>
 
-      <methodology-heading :category="getCategory('ausnahmen')" />
+      <methodology-heading :category="getCategory('aufloesung')" />
       <p>
         Selbstverständlich ist der Anspruch auf Transparenz staatlichen Handelns
         nicht grenzenlos, sondern endet dort, wo Persönlichkeitsrechte betroffen
@@ -65,39 +65,6 @@
         kein Argument für völlige Intransparenz sein.
       </p>
 
-      <methodology-heading :category="getCategory('antragstellung')" />
-      <p>
-        Auch nachdem ein Transparenzgesetz in Kraft getreten ist, bleibt ein
-        Antragsrecht für nicht aktiv veröffentlichte Informationen notwendig.
-        Die Anfrage kann elektronisch und anonym erfolgen, gegebenenfalls
-        unterstützt durch Behörden. Die Antwortfrist beträgt nur wenige Wochen.
-        Verstößt eine Behörde gegen die gesetzlichen Regelungen, sind Sanktionen
-        möglich.
-      </p>
-
-      <methodology-heading :category="getCategory('gebuehren')" />
-      <p>
-        Die Ablehnung einer Anfrage auf Informationsfreigabe kostet
-        grundsätzlich nichts, ebenso wie die meisten Anfragen. So ist das
-        international üblich. Gebühren werden höchstens in Ausnahmefällen
-        verlangt und auf eine Maximalsumme von 500 Euro gedeckelt. Die Kosten
-        sind vor Bearbeitung der Anfrage bekannt.
-      </p>
-
-      <methodology-heading
-        :category="getCategory('informationsfreiheitsbeauftragte')"
-      />
-      <p>
-        Der oder die Informationsfreiheitsbeauftragte ist erste Instanz der
-        Klärung bei Konflikten in der Anwendung der Gesetze. Um diese Aufgabe
-        erfüllen zu können, braucht er oder sie Einsichtsund Klagerechte und
-        muss politisch unabhängig arbeiten können. Zu guter Letzt ist aber auch
-        die Behörde des oder der Informationsfreiheitsbeauftragten selbst
-        auskunftspflichtig. Die Auswahl und Gewichtung der Kriterien beruht auf
-        der Abstimmung mit zahlreichen Expert:innen der Informationsfreiheit aus
-        allen Bundesländern. Wir bedanken uns an dieser Stelle für alle
-        Rückmeldungen und Verbesserungsvorschläge!
-      </p>
     </div>
   </div>
 </template>
