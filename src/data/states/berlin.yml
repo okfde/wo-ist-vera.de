@@ -3,6 +3,7 @@ short: BE
 year: 1998
 updated: 2021
 type: ifg
+datalink: 'https://www.test.de'
 fdsId: 4
 criteria:
   - title: Transparenz der Daten
