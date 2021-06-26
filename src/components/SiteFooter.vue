@@ -10,11 +10,7 @@
           <div>
             <h3>Die Erhebung</h3>
             <p>
-              Jede Person hat das Recht auf staatliche Informationen - doch die
-              Umsetzung dieses Rechts unterscheidet sich innerhalb Deutschlands.
-              Wir haben erstmalig die Informationsfreiheits- und
-              Transparenzgesetze in den deutschen Bundesländern miteinander
-              verglichen.
+              Nur wenige Bundesländer veröffentlichen VERA-Daten. In der Regel werden sie lediglich den Schulen zurückgespiegelt. Dabei sind sie wichtige Instrumente für die Bewertung, Erforschung und Entwicklung von Schulbildung. Wir bündel die Daten und machen den Umgang der Bundesländer mit diesen sichtbar.
             </p>
             <p>
               Um mehr über Informationsfreiheit und Informationsfreiheitgesetze
@@ -29,10 +25,8 @@
           <div>
             <h3>Das Projekt</h3>
             <p>
-              Das Transparenzranking ist ein Projekt der gemeinnützigen Vereine
-              Open Knowledge Foundation Deutschland e.V. und Mehr Demokratie
-              e.V.. Der Quellcode ist zu finden
-              <a href="https://github.com/okfde/transparenzranking.de"
+              Wo-ist-VERA.de ist ein Projekt des Open Knowledge Foundation Deutschland e. V. Der Quellcode ist zu finden
+              <a target="_blank" href="https://github.com/okfde/wo-ist-vera.de"
                 >auf Github</a
               >. Verwendete Tools sind Vue.js und Tailwind CSS.
             </p>
@@ -55,7 +49,7 @@
             <div class="footer-grid">
               <p>
                 <i-mdi-github class="mr-1" />
-                <a href="https://github.com/okfde/transparenzranking.de"
+                <a target="_blank" href="https://github.com/okfde/wo-ist-vera.de"
                   >Quellcode & Datensatz
                 </a>
               </p>
@@ -79,22 +73,19 @@
             <p>
               Wir freuen uns sehr über Feedback, Kritik und Fragen. Kontaktieren
               Sie uns bitte unter
-              <a href="mailto:info@fragdenstaat.de">info@fragdenstaat.de</a>
-              (<a href="https://fragdenstaat.de/kontakt/#pgp-key"
-                >PGP-Schlüssel</a
-              >).
+              <a href="mailto:info@okfn.de">dieser Mail-Adresse</a>
             </p>
           </div>
           <div>
             <h3>Impressum</h3>
             <p>
-              Verantwortlicher Diensteanbieter für diese Homepage ist das
-              Projekt FragDenStaat der Open Knowledge Foundation Deutschland.
+              Verantwortlicher Diensteanbieter für diese Homepage ist der
+              Open Knowledge Foundation Deutschland e. V.
             </p>
             <p>
-              <a href="https://fragdenstaat.de/impressum/">Impressum</a>
-              /
-              <a href="https://fragdenstaat.de/datenschutzerklaerung/">
+              <a target="_blank" href="https://okfn.de/impressum/">Impressum</a>
+
+              <a target="_blank" href="https://okfn.de/impressum/#datenschutzerkl%C3%A4rung">
                 Datenschutzerklärung
               </a>
             </p>
