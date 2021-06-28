@@ -41,7 +41,7 @@
      id="namedview57"
      showgrid="false"
      inkscape:zoom="2.9795302"
-     inkscape:cx="542.89692"
+     inkscape:cx="146.54791"
      inkscape:cy="38.370249"
      inkscape:window-x="72"
      inkscape:window-y="27"
@@ -158,28 +158,27 @@
      fill="#fff"
      id="path45" />
   <text
-     x="74.741"
+     x="74.740997"
      y="822.81"
      font-size="10.667"
-     font-family="Cabin, Inter, sans-serif"
-     fill="#27272a"
-     style="line-height:1.3"
+     style="font-size:10.66699982px;line-height:1.29999995;font-family:Cabin, Inter, sans-serif;fill:#27272a"
      id="text53">
     <tspan
-       x="74.741"
+       x="74.740997"
        y="822.81"
        font-size="13.333"
-       id="tspan49">
+       id="tspan49"
+       style="font-size:13.33300018px">
       <tspan
-         x="74.741"
+         x="74.740997"
          y="822.81"
-         id="tspan47">transparenzranking.de</tspan>
+         id="tspan47">wo-ist-vera.de</tspan>
     </tspan>
     <tspan
-       x="74.741"
+       x="74.740997"
        y="837.62"
-       fill="gray"
-       id="tspan51">Karte: David Liuzzo, DeStatis</tspan>
+       id="tspan51"
+       style="fill:#808080">Karte: David Liuzzo, DeStatis</tspan>
   </text>
   <image
      y="649.11108"
