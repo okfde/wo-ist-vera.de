@@ -24,6 +24,7 @@ useHead({
   description,
   meta: [
     { property: 'og:image', content: socialPreview },
+    { property: 'twitter:image', content: socialPreview },
     { property: 'og:title', content: title },
     { property: 'og:description', content: description },
     { property: 'twitter:card', content: 'summary_large_image' }
