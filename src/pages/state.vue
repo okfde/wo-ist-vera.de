@@ -4,7 +4,7 @@
     <div class="prose">
       <div class="text-center italic">
               <p v-if="state.datalink">
-                Mit der Wertung nicht zufrieden? Stelle Sie eine <a href="https://fragdenstaat.de/info/informationsfreiheit/einfuehrung/" target="_blank">Informationsfreiheits-Anfrage</a> und sorgen Sie für mehr Transparenz!
+                Mit der Wertung nicht zufrieden? Stellen Sie eine <a href="https://fragdenstaat.de/info/informationsfreiheit/einfuehrung/" target="_blank">Informationsfreiheits-Anfrage</a> und sorgen Sie für mehr Transparenz!
                 <a
                   :href="`https://fragdenstaat.de/behoerde/${state.fds.slug}/`"
                   class="link whitespace-nowrap"
