@@ -1,0 +1,213 @@
+id,jahr,fach,test,bundesland,k1_anteil,k2_anteil,k3_anteil,k4_anteil,k5_anteil
+1,2010,Deutsch,Lesen,Schleswig-Holstein,20.2,19.3,22.7,14.9,22.9
+1,2011,Deutsch,Lesen,Schleswig-Holstein,15.3,17.4,21.9,22.5,22.8
+1,2012,Deutsch,Lesen,Schleswig-Holstein,9.699999999999999,23.7,29,21,16.6
+1,2013,Deutsch,Lesen,Schleswig-Holstein,17.9,21,20.6,24,16.5
+1,2014,Deutsch,Lesen,Schleswig-Holstein,12.2,18.8,28,20,21
+1,2015,Deutsch,Lesen,Schleswig-Holstein,9.5,14.9,26.3,22.8,26.5
+1,2016,Deutsch,Lesen,Schleswig-Holstein,9.699999999999999,15.2,27.2,27.3,20.6
+1,2017,Deutsch,Lesen,Schleswig-Holstein,15.9,18.8,21.6,17.9,25.8
+1,2018,Deutsch,Lesen,Schleswig-Holstein,18.9,18.7,16.2,27.3,18.9
+1,2019,Deutsch,Lesen,Schleswig-Holstein,15.9,23.4,24.5,16.3,19.9
+1,2010,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Schleswig-Holstein,9.800000000000001,26.6,32.6,19.2,11.8
+1,2010,Mathematik,Zahlen und Operationen,Schleswig-Holstein,19.1,28.3,25.3,14.1,13.2
+1,2011,Mathematik,Muster und Strukturen,Schleswig-Holstein,26.1,26.7,28.7,10.8,7.7
+1,2011,Mathematik,Zahlen und Operationen,Schleswig-Holstein,22.7,30.7,20.4,15.8,10.4
+1,2012,Mathematik,Größen und Messen,Schleswig-Holstein,31.8,30.7,22,10.7,4.8
+1,2012,Mathematik,Muster und Strukturen,Schleswig-Holstein,17,31.1,28.3,13,10.6
+1,2013,Mathematik,Größen und Messen,Schleswig-Holstein,13.3,25.3,28.8,20.7,11.9
+1,2013,Mathematik,Raum und Form,Schleswig-Holstein,14.9,18.9,25.4,20.5,20.3
+1,2014,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Schleswig-Holstein,8,14.7,25.8,32,19.5
+1,2014,Mathematik,Raum und Form,Schleswig-Holstein,14.2,22.2,28.1,17.4,18.1
+1,2015,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Schleswig-Holstein,19.5,20.1,24.4,21.4,14.6
+1,2015,Mathematik,Zahlen und Operationen,Schleswig-Holstein,16.5,27.3,23.5,21.8,10.9
+1,2016,Mathematik,Muster und Strukturen,Schleswig-Holstein,12.3,22.5,26.3,23.8,15.1
+1,2016,Mathematik,Zahlen und Operationen,Schleswig-Holstein,20.6,28.3,20.6,18,12.5
+1,2017,Mathematik,Größen und Messen,Schleswig-Holstein,21.1,27.3,25.7,15.2,10.7
+1,2017,Mathematik,Muster und Strukturen,Schleswig-Holstein,10.8,22,33.1,20.3,13.8
+1,2018,Mathematik,Größen und Messen,Schleswig-Holstein,17.3,28.9,26.3,15,12.5
+1,2018,Mathematik,Raum und Form,Schleswig-Holstein,16.9,24,20.4,19.1,19.6
+1,2019,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Schleswig-Holstein,14.4,25,23.2,23.4,14
+1,2019,Mathematik,Raum und Form,Schleswig-Holstein,14.7,23.2,30.2,18.4,13.5
+2,2010,Deutsch,Lesen,Hamburg,20,18,19,19,24
+2,2011,Deutsch,Lesen,Hamburg,18,18,26,20,18
+2,2012,Deutsch,Lesen,Hamburg,23,17,22,19,19
+2,2013,Deutsch,Lesen,Hamburg,19,18,26,10,27
+2,2014,Deutsch,Lesen,Hamburg,22,20,26,17,15
+2,2015,Deutsch,Lesen,Hamburg,15,20,28,21,16
+2,2016,Deutsch,Lesen,Hamburg,19,20,20,27,14
+2,2017,Deutsch,Lesen,Hamburg,22,19,19,17,23
+2,2018,Deutsch,Lesen,Hamburg,17,20,25,27,11
+2,2019,Deutsch,Lesen,Hamburg,25,18,22,22,13
+2,2010,Mathematik,Mathematik,Hamburg,15,21,24,20,20
+2,2011,Mathematik,Mathematik,Hamburg,30,20,20,17,13
+2,2012,Mathematik,Mathematik,Hamburg,33,23,21,14,9
+2,2013,Mathematik,Mathematik,Hamburg,22,20,24,19,15
+2,2014,Mathematik,Mathematik,Hamburg,16,22,23,23,16
+2,2015,Mathematik,Mathematik,Hamburg,26,19,29,15,11
+2,2016,Mathematik,Mathematik,Hamburg,24,27,17,20,12
+2,2017,Mathematik,Mathematik,Hamburg,28,23,24,16,9
+2,2018,Mathematik,Mathematik,Hamburg,25,21,27,16,11
+2,2019,Mathematik,Mathematik,Hamburg,28,23,27,13,9
+5,2010,Deutsch,Lesen,Nordrhein-Westfahlen,23.2,18.8,21.7,14.4,21.9
+5,2011,Deutsch,Lesen,Nordrhein-Westfahlen,10.9,16.6,26.2,21.9,24.4
+5,2012,Deutsch,Lesen,Nordrhein-Westfahlen,16,14.4,22.3,19.4,27.9
+5,2013,Deutsch,Lesen,Nordrhein-Westfahlen,21.9,20.3,18.7,22.6,16.5
+5,2014,Deutsch,Lesen,Nordrhein-Westfahlen,15.8,19.1,26.5,18.5,20.1
+5,2015,Deutsch,Lesen,Nordrhein-Westfahlen,12.5,16.7,26.9,21.6,22.3
+5,2016,Deutsch,Lesen,Nordrhein-Westfahlen,13.6,17,26,23.9,19.5
+5,2017,Deutsch,Lesen,Nordrhein-Westfahlen,19.2,20.2,20.3,16.1,24.2
+5,2018,Deutsch,Lesen,Nordrhein-Westfahlen,22.5,18.5,15.3,24.8,18.9
+5,2019,Deutsch,Lesen,Nordrhein-Westfahlen,19.5,23.6,22.9,15.3,18.7
+5,2010,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Nordrhein-Westfahlen,7.8,22,31.7,21.6,16.8
+5,2010,Mathematik,Zahlen und Operationen,Nordrhein-Westfahlen,14,22.7,24.6,17.4,21.3
+5,2011,Mathematik,Muster und Strukturen,Nordrhein-Westfahlen,22.1,25,29.1,12.9,10.9
+5,2011,Mathematik,Zahlen und Operationen,Nordrhein-Westfahlen,19.2,27.4,21.1,18.4,13.9
+5,2012,Mathematik,Größen und Messen,Nordrhein-Westfahlen,29.2,28.6,23,12.5,6.7
+5,2012,Mathematik,Muster und Strukturen,Nordrhein-Westfahlen,14.5,29.1,28.7,14.3,13.4
+5,2013,Mathematik,Größen und Messen,Nordrhein-Westfahlen,15.7,24.7,27.1,20.5,12
+5,2013,Mathematik,Raum und Form,Nordrhein-Westfahlen,16.5,17.5,23.9,19.7,22.4
+5,2014,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Nordrhein-Westfahlen,8.800000000000001,14.7,24.5,31.3,20.7
+5,2014,Mathematik,Raum und Form,Nordrhein-Westfahlen,16.8,22.4,26.6,16.5,17.7
+5,2015,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Nordrhein-Westfahlen,22.3,19.5,22.5,20.4,15.3
+5,2015,Mathematik,Zahlen und Operationen,Nordrhein-Westfahlen,17.5,26.5,22.7,21.7,11.6
+5,2016,Mathematik,Muster und Strukturen,Nordrhein-Westfahlen,12,20.7,25.4,24.3,17.6
+5,2016,Mathematik,Zahlen und Operationen,Nordrhein-Westfahlen,20,27.1,20.4,18.4,14.1
+5,2017,Mathematik,Größen und Messen,Nordrhein-Westfahlen,22.7,26.2,24.6,15.1,11.4
+5,2017,Mathematik,Muster und Strukturen,Nordrhein-Westfahlen,12.8,21.8,30.8,19.7,14.9
+5,2018,Mathematik,Größen und Messen,Nordrhein-Westfahlen,20.1,27.7,24.4,14.3,13.5
+5,2018,Mathematik,Raum und Form,Nordrhein-Westfahlen,20.3,23,18.1,17.8,20.8
+5,2019,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Nordrhein-Westfahlen,17.3,24.7,21.5,22.2,14.3
+5,2019,Mathematik,Raum und Form,Nordrhein-Westfahlen,20.2,23.2,27.6,15.9,13.1
+7,2010,Deutsch,Lesen,Rheinland-Pfalz,26.1,19.8,21.8,13.8,18.5
+7,2011,Deutsch,Lesen,Rheinland-Pfalz,17.5,19.5,26.6,19.4,17
+7,2012,Deutsch,Lesen,Rheinland-Pfalz,20.4,16.1,23.1,18.2,22.2
+7,2013,Deutsch,Lesen,Rheinland-Pfalz,26.6,21.9,19.2,20,12.3
+7,2014,Deutsch,Lesen,Rheinland-Pfalz,19.1,20.2,26.7,17.5,16.5
+7,2015,Deutsch,Lesen,Rheinland-Pfalz,13.5,17.5,27.1,20.2,21.7
+7,2016,Deutsch,Lesen,Rheinland-Pfalz,15.4,17.8,26.2,23.9,16.7
+7,2017,Deutsch,Lesen,Rheinland-Pfalz,23.4,20.9,20.9,15.7,19.1
+7,2018,Deutsch,Lesen,Rheinland-Pfalz,29.9,20.4,15.8,21.9,12
+7,2019,Deutsch,Lesen,Rheinland-Pfalz,21.5,23.8,22.8,15.1,16.8
+7,2010,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Rheinland-Pfalz,13.9,28.4,32.6,16.6,8.5
+7,2010,Mathematik,Zahlen und Operationen,Rheinland-Pfalz,21.7,27.9,24.4,13.6,12.4
+7,2011,Mathematik,Muster und Strukturen,Rheinland-Pfalz,30.7,27.1,26.5,9.300000000000001,6.4
+7,2011,Mathematik,Zahlen und Operationen,Rheinland-Pfalz,27,30.2,19.2,14.3,9.300000000000001
+7,2012,Mathematik,Größen und Messen,Rheinland-Pfalz,36.3,28.5,20.8,9.9,4.5
+7,2012,Mathematik,Muster und Strukturen,Rheinland-Pfalz,20,31.2,26.8,11.8,10.2
+7,2013,Mathematik,Größen und Messen,Rheinland-Pfalz,19,26.2,26,19,9.800000000000001
+7,2013,Mathematik,Raum und Form,Rheinland-Pfalz,21.6,20.9,24.5,17.2,15.8
+7,2014,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Rheinland-Pfalz,11.5,17.3,26.2,28.8,16.2
+7,2014,Mathematik,Raum und Form,Rheinland-Pfalz,20.2,25,27.2,14.7,12.9
+7,2015,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Rheinland-Pfalz,26.8,20.6,21.9,18.9,11.8
+7,2015,Mathematik,Zahlen und Operationen,Rheinland-Pfalz,20.3,27.8,22.5,20,9.4
+7,2016,Mathematik,Muster und Strukturen,Rheinland-Pfalz,16.8,24.1,25.1,20.6,13.4
+7,2016,Mathematik,Zahlen und Operationen,Rheinland-Pfalz,22.9,28.3,20.3,16.7,11.8
+7,2017,Mathematik,Größen und Messen,Rheinland-Pfalz,27.3,28.4,24,12.3,8
+7,2017,Mathematik,Muster und Strukturen,Rheinland-Pfalz,15.8,24.6,31.3,17.8,10.5
+7,2018,Mathematik,Größen und Messen,Rheinland-Pfalz,23.4,30.1,24.6,12.1,9.800000000000001
+7,2018,Mathematik,Raum und Form,Rheinland-Pfalz,23.6,25.9,19.1,16.3,15.1
+7,2019,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Rheinland-Pfalz,22.4,26.4,20.8,19.5,10.9
+7,2019,Mathematik,Raum und Form,Rheinland-Pfalz,21,25.2,28.1,14.9,10.8
+8,2010,Deutsch,Lesen,Baden-Württemberg,28.9,20.1,21.1,13.1,16.8
+8,2011,Deutsch,Lesen,Baden-Württemberg,17.2,19.4,26.7,19.8,16.9
+8,2012,Deutsch,Lesen,Baden-Württemberg,19,16,24,19,22
+8,2013,Deutsch,Lesen,Baden-Württemberg,26,23,19,20,12
+8,2014,Deutsch,Lesen,Baden-Württemberg,20,20,27,17,16
+8,2015,Deutsch,Lesen,Baden-Württemberg,15,18,27,20,20
+8,2016,Deutsch,Lesen,Baden-Württemberg,12,23,29,23,13
+8,2017,Deutsch,Lesen,Baden-Württemberg,20,20,21,17,22
+8,2018,Deutsch,Lesen,Baden-Württemberg,24,19,16,25,16
+8,2019,Deutsch,Lesen,Baden-Württemberg,19,23,23,16,19
+8,2010,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Baden-Württemberg,15.2,28.4,31.9,16.4,8.1
+8,2010,Mathematik,Zahlen und Operationen,Baden-Württemberg,22.1,28.7,25.5,12.9,10.8
+8,2011,Mathematik,Muster und Strukturen,Baden-Württemberg,31.6,27.7,26.1,9,5.6
+8,2011,Mathematik,Zahlen und Operationen,Baden-Württemberg,26.4,31.7,20.1,13.7,8.1
+8,2012,Mathematik,Größen und Messen,Baden-Württemberg,35,30,21,10,4
+8,2012,Mathematik,Muster und Strukturen,Baden-Württemberg,20,32,28,11,9
+8,2013,Mathematik,Größen und Messen,Baden-Württemberg,18,26,28,19,9
+8,2013,Mathematik,Raum und Form,Baden-Württemberg,22,21,25,17,15
+8,2014,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Baden-Württemberg,12,17,26,15,30
+8,2014,Mathematik,Raum und Form,Baden-Württemberg,19,24,28,15,14
+8,2015,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Baden-Württemberg,27,21,22,19,11
+8,2015,Mathematik,Zahlen und Operationen,Baden-Württemberg,21,28,22,20,9
+8,2016,Mathematik,Muster und Strukturen,Baden-Württemberg,9,21,38,11,21
+8,2016,Mathematik,Zahlen und Operationen,Baden-Württemberg,16,26,31,16,11
+8,2017,Mathematik,Größen und Messen,Baden-Württemberg,24,28,25,14,9
+8,2017,Mathematik,Muster und Strukturen,Baden-Württemberg,14,23,32,19,12
+8,2018,Mathematik,Größen und Messen,Baden-Württemberg,20,29,25,14,12
+8,2018,Mathematik,Raum und Form,Baden-Württemberg,19,23,20,18,20
+8,2019,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Baden-Württemberg,17,24,21,23,14
+8,2019,Mathematik,Raum und Form,Baden-Württemberg,16,22,29,18,15
+11,2010,Deutsch,Lesen,Berlin,37.8,19,17.5,10.9,14.7
+11,2011,Deutsch,Lesen,Berlin,27,22,18,18,16
+11,2012,Deutsch,Lesen,Berlin,29,17,21,15,19
+11,2013,Deutsch,Lesen,Berlin,34,27,11,11,17
+11,2014,Deutsch,Lesen,Berlin,26,21,23,15,15
+11,2015,Deutsch,Lesen,Berlin,21,20,25,18,15
+11,2016,Deutsch,Lesen,Berlin,28,13,15,18,25
+11,2010,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Berlin,30.8,24.4,21,14.3,9.6
+11,2010,Mathematik,Zahlen und Operationen,Berlin,43.4,20.7,17.2,9.199999999999999,9.5
+11,2011,Mathematik,Muster und Strukturen,Berlin,35,25,23,13,5
+11,2011,Mathematik,Zahlen und Operationen,Berlin,33,29,22,8,7
+11,2012,Mathematik,Größen und Messen,Berlin,51,25,15,6,3
+11,2012,Mathematik,Muster und Strukturen,Berlin,30,32,23,9,6
+11,2013,Mathematik,Größen und Messen,Berlin,28,29,23,13,7
+11,2013,Mathematik,Raum und Form,Berlin,30,20,21,15,14
+11,2014,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Berlin,18,18,24,13,27
+11,2014,Mathematik,Raum und Form,Berlin,24,24,25,14,13
+11,2015,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Berlin,35,20,19,16,10
+11,2015,Mathematik,Zahlen und Operationen,Berlin,31.1,28,19,15,7
+11,2016,Mathematik,Muster und Strukturen,Berlin,21,26,25,18,10
+11,2016,Mathematik,Zahlen und Operationen,Berlin,37,28,16,12,8
+12,2010,Deutsch,Lesen,Brandenburg,26.4,20.9,21.4,13.6,17.8
+12,2011,Deutsch,Lesen,Brandenburg,18,22,18,21,21
+12,2012,Deutsch,Lesen,Brandenburg,20,17,23,18,22
+12,2013,Deutsch,Lesen,Brandenburg,22,22,20,22,15
+12,2014,Deutsch,Lesen,Brandenburg,16,20,28,19,17
+12,2015,Deutsch,Lesen,Brandenburg,13,17,30,22,18
+12,2016,Deutsch,Lesen,Brandenburg,18,25,26,20,12
+12,2010,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Brandenburg,20,24.3,25.5,18.4,11.7
+12,2010,Mathematik,Zahlen und Operationen,Brandenburg,31.3,22.4,21.8,11.7,12.9
+12,2011,Mathematik,Muster und Strukturen,Brandenburg,21,34,20,16,9
+12,2011,Mathematik,Zahlen und Operationen,Brandenburg,31,23,25,12,8
+12,2012,Mathematik,Größen und Messen,Brandenburg,40,28,19,9,4
+12,2012,Mathematik,Muster und Strukturen,Brandenburg,24,32,25,11,8
+12,2013,Mathematik,Größen und Messen,Brandenburg,21,28,25,17,9
+12,2013,Mathematik,Raum und Form,Brandenburg,18,20,25,19,18
+12,2014,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Brandenburg,11,17,25,15,32
+12,2014,Mathematik,Raum und Form,Brandenburg,17,23,28,16,16
+12,2015,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Brandenburg,24,22,23,19,12
+12,2015,Mathematik,Zahlen und Operationen,Brandenburg,24,27,21,18,9
+12,2016,Mathematik,Muster und Strukturen,Brandenburg,18,25,26,20,12
+12,2016,Mathematik,Zahlen und Operationen,Brandenburg,30,27,18,14,10
+13,2010,Deutsch,Lesen,Mecklenburg-Vorpommern,15.9,18.4,22.2,22,21.6
+13,2011,Deutsch,Lesen,Mecklenburg-Vorpommern,9.699999999999999,15.7,27.3,22.7,24.6
+13,2012,Deutsch,Lesen,Mecklenburg-Vorpommern,15.7,15.6,22.6,19.6,26.5
+13,2013,Deutsch,Lesen,Mecklenburg-Vorpommern,20.7,20.5,19.9,23.3,15.6
+13,2014,Deutsch,Lesen,Mecklenburg-Vorpommern,16.2,19.3,26.5,18.7,19.3
+13,2015,Deutsch,Lesen,Mecklenburg-Vorpommern,12.5,16.7,27.2,20.5,23.1
+13,2016,Deutsch,Lesen,Mecklenburg-Vorpommern,13.1,15.7,26.9,24.8,19.5
+13,2017,Deutsch,Lesen,Mecklenburg-Vorpommern,20.3,21.3,20.2,16.3,21.9
+13,2018,Deutsch,Lesen,Mecklenburg-Vorpommern,23.9,19.6,16.2,24.6,15.7
+13,2019,Deutsch,Lesen,Mecklenburg-Vorpommern,21.8,26.1,23.6,14.8,13.7
+13,2010,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Mecklenburg-Vorpommern,10.5,27.2,32.6,18.2,11.5
+13,2010,Mathematik,Zahlen und Operationen,Mecklenburg-Vorpommern,16.9,26.8,24.7,15,16.6
+13,2011,Mathematik,Muster und Strukturen,Mecklenburg-Vorpommern,28.5,27.2,27.9,9.9,6.5
+13,2011,Mathematik,Zahlen und Operationen,Mecklenburg-Vorpommern,25.3,29,19.6,14.9,11.2
+13,2012,Mathematik,Größen und Messen,Mecklenburg-Vorpommern,35.7,28.9,20.4,9.9,5.1
+13,2012,Mathematik,Muster und Strukturen,Mecklenburg-Vorpommern,20.2,30.3,26.7,11.9,10.9
+13,2013,Mathematik,Größen und Messen,Mecklenburg-Vorpommern,19.8,26,25.5,18.4,10.3
+13,2013,Mathematik,Raum und Form,Mecklenburg-Vorpommern,18.4,21.1,26.1,18.1,16.3
+13,2014,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Mecklenburg-Vorpommern,12.4,17.8,25.5,27.1,17.2
+13,2014,Mathematik,Raum und Form,Mecklenburg-Vorpommern,17.5,23.9,26.5,15.7,16.4
+13,2015,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Mecklenburg-Vorpommern,27.1,20.8,21.5,18.5,12.1
+13,2015,Mathematik,Zahlen und Operationen,Mecklenburg-Vorpommern,21.5,26,20.3,20.1,12.1
+13,2016,Mathematik,Muster und Strukturen,Mecklenburg-Vorpommern,16.9,23.6,25.4,21.3,12.8
+13,2016,Mathematik,Zahlen und Operationen,Mecklenburg-Vorpommern,26,26.4,18.6,16.7,12.3
+13,2017,Mathematik,Größen und Messen,Mecklenburg-Vorpommern,26.3,26.7,23.6,13.3,10.1
+13,2017,Mathematik,Muster und Strukturen,Mecklenburg-Vorpommern,16.3,24.2,30.3,17.5,11.7
+13,2018,Mathematik,Größen und Messen,Mecklenburg-Vorpommern,21.7,28.2,24.6,13.6,11.9
+13,2018,Mathematik,Raum und Form,Mecklenburg-Vorpommern,24.8,25.4,18.7,16.4,14.7
+13,2019,Mathematik,"Daten, Häufigkeit und Wahrscheinlichkeit",Mecklenburg-Vorpommern,23.3,26.8,26.7,13.1,10.1
+13,2019,Mathematik,Raum und Form,Mecklenburg-Vorpommern,23,26.6,20.2,19.9,10.3
