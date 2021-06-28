@@ -16,7 +16,7 @@
           </template>
           <template v-else>
             {{ law }} seit {{ state.year }}.
-            Die Punktzahl ist nicht zufriedenstellend?
+            Du bist mit der Wertung nicht zufrieden? Stelle eine IFG-Anfrage und sorge für mehr Transparenz!
             <a
               :href="`https://fragdenstaat.de/behoerde/${state.fds.slug}/`"
               class="link whitespace-nowrap"
@@ -58,6 +58,10 @@
     <state-details v-if="state.criteria" :performance="performance" />
     <div class="btn-wrap" v-if="state.datalink">
        <a class="btn black" :href="`${state.datalink}`">VERA-Daten Herunterladen</a>
+    </div>
+    <div class="btn-wrap" v-else>
+        <p>{{state.name}} hält VERA-Daten bisher unter Verschluss</p><br>
+        <a :href="`https://fragdenstaat.de/behoerde/${state.fds.slug}/`" class="btn black">Daten jetzt über das IFG anfragen</a>
     </div>
   </div>
 </template>

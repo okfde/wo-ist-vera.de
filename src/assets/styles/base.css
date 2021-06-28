@@ -112,9 +112,22 @@
    }
 
    @include transition(all .25s ease);
+   &.nodata{
+     color: black !important;
+     border: 2px solid black;
 
+     &:hover{
+       color: black !important;
+       background-color: white !important;
+       border: 2px solid black;
+     }
+     &:visited{
+       color: black !important;
+       border: 2px solid black;
+     }
+   }
    &.black{
-     color: $black !important;
+     color: black !important;
      border: 2px solid black;
 
      &:visited{
