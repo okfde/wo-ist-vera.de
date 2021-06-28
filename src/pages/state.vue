@@ -3,30 +3,10 @@
     <h1 class="headline">{{ state.name }}</h1>
     <div class="prose">
       <div class="text-center italic">
-        <p v-if="state.type && state.type !== false">
-          <template v-if="state.draft">
-            Bisher noch nicht in Kraft getretener Gesetzesentwurf.
-
-            <router-link
-              :to="`/laender/${state.draftParent}`"
-              class="link whitespace-nowrap"
-            >
-              Zum aktuellen Gesetz
-            </router-link>
-          </template>
-          <template v-else>
-            {{ law }} seit {{ state.year }}.
-            Du bist mit der Wertung nicht zufrieden? Stelle eine IFG-Anfrage und sorge für mehr Transparenz!
-            <a
-              :href="`https://fragdenstaat.de/behoerde/${state.fds.slug}/`"
-              class="link whitespace-nowrap"
-            >
-              Anfrage stellen
-            </a>
-          </template>
-        </p>
-        <p v-else>Kein Informationsfreiheitsgesetz</p>
-      </div>
+              <p v-if="state.datalink">
+              </p>
+              <p v-else>{{state.name}} hält VERA-Daten bisher unter Verschluss.</p>
+            </div>
     </div>
 
     <table class="ranking-bars">
@@ -60,12 +40,12 @@
        <a class="btn black" :href="`${state.datalink}`">VERA-Daten Herunterladen</a>
     </div>
     <div class="btn-wrap" v-else>
-        <p>{{state.name}} hält VERA-Daten bisher unter Verschluss</p><br>
-        <a :href="`https://fragdenstaat.de/behoerde/${state.fds.slug}/`" class="btn black">Daten jetzt über das IFG anfragen</a>
+        <p>{{state.name}} hält VERA-Daten bisher unter Verschluss. Stelle eine Anfrage nach dem <a href="https://fragdenstaat.de/info/informationsfreiheit/einfuehrung/" target="_blank">Informationsfreiheitsgesetz</a> und engagiere dich für mehr Transparenz!</p><br>
+        <a :href="`https://fragdenstaat.de/behoerde/${state.fds.slug}/`" target="_blank" class="btn black">Anfrage stellen</a>
     </div>
   </div>
 </template>
-
+.
 <script setup>
 import { computed, defineProps } from 'vue';
 import { useHead } from '@vueuse/head';
