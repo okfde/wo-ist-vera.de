@@ -4,6 +4,13 @@
     <div class="prose">
       <div class="text-center italic">
               <p v-if="state.datalink">
+                Sie sind mit der Wertung nicht zufrieden? Stelle Sie eine Informationsfreiheits-Anfrage und sorgen Sie für mehr Transparenz!
+                <a
+                  :href="`https://fragdenstaat.de/behoerde/${state.fds.slug}/`"
+                  class="link whitespace-nowrap"
+                >
+                Anfrage stellen
+                </a>
               </p>
               <p v-else>{{state.name}} hält VERA-Daten bisher unter Verschluss.</p>
             </div>
@@ -37,7 +44,7 @@
 
     <state-details v-if="state.criteria" :performance="performance" />
     <div class="btn-wrap" v-if="state.datalink">
-       <a class="btn black" :href="`${state.datalink}`">VERA-Daten Herunterladen</a>
+       <a target="_blank" class="btn black" :href="`${state.datalink}`">VERA-Daten Herunterladen</a>
     </div>
     <div class="btn-wrap" v-else>
         <p>{{state.name}} hält VERA-Daten bisher unter Verschluss. Stelle eine Anfrage nach dem <a href="https://fragdenstaat.de/info/informationsfreiheit/einfuehrung/" target="_blank">Informationsfreiheitsgesetz</a> und engagiere dich für mehr Transparenz!</p><br>
