@@ -12,12 +12,12 @@
 
 <script setup>
 import { useHead } from '@vueuse/head';
-import socialPreview from './assets/img/social-preview.png';
+import socialPreview from './assets/img/logo.png';
 import favicon from './assets/img/favicon.png';
 
-const title = 'Informationsfreiheit in Deutschland - Das Transparenzranking';
+const title = 'Wo-ist-VERA.de - Transparenz für Vergleichsarbeiten';
 const description =
-  'Transparenzranking.de vergleicht alle Transparenzregelungen Deutschlands.';
+  'Wo-ist-VERA.de vergleicht die Bundesländer im Umgang mit VERA-Daten.';
 
 useHead({
   title,
