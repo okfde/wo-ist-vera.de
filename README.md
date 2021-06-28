@@ -64,6 +64,6 @@ Die YAML-Datei beinhaltet folgende Eigenschaften (Beispiel:
 ## Lizenz
 
 Der Code ist [MIT-lizensiert](./LICENSE), die Inhalte (alle `.yml` und `.md`
-Dateien) fallen unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+sowie `.csv` Dateien) fallen unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 
