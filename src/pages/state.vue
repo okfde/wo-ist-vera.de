@@ -47,7 +47,7 @@
        <a target="_blank" class="btn black" :href="`${state.datalink}`">VERA-Daten Herunterladen</a>
     </div>
     <div class="btn-wrap" v-else>
-        <p>{{state.name}} hält VERA-Daten bisher unter Verschluss. Stelle eine Anfrage nach dem <a href="https://fragdenstaat.de/info/informationsfreiheit/einfuehrung/" target="_blank">Informationsfreiheitsgesetz</a> und engagiere dich für mehr Transparenz!</p><br>
+        <p>{{state.name}} hält VERA-Daten bisher unter Verschluss. Stellen Sie eine Anfrage nach dem <a href="https://fragdenstaat.de/info/informationsfreiheit/einfuehrung/" target="_blank">Informationsfreiheitsgesetz</a> und engagieren Sie sich für mehr Transparenz!</p><br>
         <a :href="`https://fragdenstaat.de/behoerde/${state.fds.slug}/`" target="_blank" class="btn black">Anfrage stellen</a>
     </div>
   </div>
