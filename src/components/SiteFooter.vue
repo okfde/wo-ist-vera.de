@@ -12,14 +12,7 @@
             <p>
               Nur wenige Bundesländer veröffentlichen VERA-Daten. In der Regel werden sie lediglich den Schulen zurückgespiegelt. Dabei sind sie wichtige Instrumente für die Bewertung, Erforschung und Entwicklung von Schulbildung. Wir bündel die Daten und machen den Umgang der Bundesländer mit diesen sichtbar.
             </p>
-            <p>
-              Um mehr über Informationsfreiheit und Informationsfreiheitgesetze
-              zu erfahren, informieren Sie
-              <a
-                href="https://fragdenstaat.de/info/informationsfreiheit/einfuehrung/"
-                >sich bei FragDenStaat</a
-              >.
-            </p>
+            
           </div>
 
           <div>
