@@ -3,7 +3,7 @@
     <div class="flex items-center text-blue">
       <div class="md:w-1/4">
         <router-link to="/">
-          <img src="../assets/img/logo.png" alt="Logo" />
+          <img style="max-width: 70%;" src="../assets/img/logo.png" alt="Logo" />
         </router-link>
       </div>
       <!--
