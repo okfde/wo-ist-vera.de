@@ -12,7 +12,7 @@
             <p>
               Nur wenige Bundesländer veröffentlichen VERA-Daten. In der Regel werden sie lediglich den Schulen zurückgespiegelt. Dabei sind sie wichtige Instrumente für die Bewertung, Erforschung und Entwicklung von Schulbildung. Wir bündel die Daten und machen den Umgang der Bundesländer mit diesen sichtbar.
             </p>
-            
+
           </div>
 
           <div>

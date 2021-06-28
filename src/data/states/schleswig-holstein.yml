@@ -6,11 +6,11 @@ type: ifg
 fdsId: 11
 criteria:
   - title: Transparenz der Daten
-    points: 2
+    points: 3
     citation: ''
     limitation:
   - title: Vollständigkeit der Daten
-    points: 10
+    points: 11
     citation: ''
     limitation:
   - title: Auflösung der Daten
