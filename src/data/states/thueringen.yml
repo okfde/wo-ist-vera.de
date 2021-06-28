@@ -2,6 +2,7 @@ name: Thüringen
 short: TH
 year: 2020
 type: tg
+datalink: 'https://github.com/okfde/wo-ist-vera.de/tree/main/src/assets/vera%20data'
 fdsId: 10
 criteria:
   - title: Transparenz der Daten

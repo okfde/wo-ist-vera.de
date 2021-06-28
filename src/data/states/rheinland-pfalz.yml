@@ -3,6 +3,7 @@ short: RP
 year: 2016
 type: tg
 fdsId: 6
+datalink: 'https://github.com/okfde/wo-ist-vera.de/tree/main/src/assets/vera%20data'
 criteria:
   - title: Transparenz der Daten
     points: 1

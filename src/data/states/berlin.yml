@@ -3,7 +3,7 @@ short: BE
 year: 1998
 updated: 2021
 type: ifg
-datalink: 'https://www.test.de'
+datalink: 'https://github.com/okfde/wo-ist-vera.de/tree/main/src/assets/vera%20data'
 fdsId: 4
 criteria:
   - title: Transparenz der Daten

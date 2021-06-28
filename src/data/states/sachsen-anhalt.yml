@@ -3,6 +3,7 @@ short: ST
 year: 2008
 type: ifg
 fdsId: 13
+datalink: 'https://github.com/okfde/wo-ist-vera.de/tree/main/src/assets/vera%20data'
 criteria:
   - title: Transparenz der Daten
     points: 3

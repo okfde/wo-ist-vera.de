@@ -2,6 +2,7 @@ name: Brandenburg
 short: BB
 year: 1998
 updated: 2013
+datalink: 'https://github.com/okfde/wo-ist-vera.de/tree/main/src/assets/vera%20data'
 type: ifg
 fdsId: 3
 criteria:

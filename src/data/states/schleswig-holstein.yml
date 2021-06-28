@@ -3,6 +3,7 @@ short: SH
 year: 2012
 updated: 2019
 type: ifg
+datalink: 'https://github.com/okfde/wo-ist-vera.de/tree/main/src/assets/vera%20data'
 fdsId: 11
 criteria:
   - title: Transparenz der Daten

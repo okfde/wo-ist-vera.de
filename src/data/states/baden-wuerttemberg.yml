@@ -2,6 +2,7 @@ name: Baden-Württemberg
 short: BW
 year: 2016
 type: ifg
+datalink: 'https://github.com/okfde/wo-ist-vera.de/tree/main/src/assets/vera%20data'
 fdsId: 91
 criteria:
   - title: Transparenz der Daten
