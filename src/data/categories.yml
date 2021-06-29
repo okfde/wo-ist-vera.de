@@ -7,15 +7,12 @@
 - title: Auflösung der Daten
   slug: aufloesung
   color: '#FDEB1D'
-  description:
-    ... ist so und so definiert.
+  description: Kleinräumigkeit der Daten, maximale Punktzahl 3
 - title: Vollständigkeit der Daten
   slug: vollstaendigkeit
   color: '#ED6B1C'
-  description:
-    ... ist so und so definiert.
+  description: Anzahl der veröffentlichten Jahreserhebungen, maximale Punktzahl 12
 - title: Transparenz der Daten
   slug: qualitaet
   color: '#637EBE'
-  description:
-    ... ist so und so definiert.
+  description: Bereitschaft, Daten zu veröffentlichen, maximale Punktahl 4

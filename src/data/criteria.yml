@@ -1,15 +1,12 @@
 - title: Auflösung der Daten
-  description:
-    Das ist die Erklärung
+  description: /methodik/#aufloesung
   maxPoints: 3
   category: aufloesung
 - title: Vollständigkeit der Daten
-  description:
-    Das ist die Erklärung
+  description: /methodik/#vollstaendigkeit
   maxPoints: 12
   category: vollstaendigkeit
 - title: Transparenz der Daten
-  description:
-    Das ist die Erklärung
+  description: /methodik/#qualitaet
   maxPoints: 4
   category: qualitaet

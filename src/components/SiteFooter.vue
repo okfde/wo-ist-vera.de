@@ -12,6 +12,7 @@
             <p>
               Nur wenige Bundesländer veröffentlichen VERA-Daten. In der Regel werden sie lediglich den Schulen zurückgespiegelt. Dabei sind sie wichtige Instrumente für die Bewertung, Erforschung und Entwicklung von Schulbildung. Wir bündel die Daten und machen den Umgang der Bundesländer mit diesen sichtbar.
             </p>
+            <p>Hier finden Sie<a href="/methodik"> Details zur Methodik.</a> Die vorhandenen <a target="_blank" href="https://github.com/okfde/wo-ist-vera.de/tree/main/src/assets/vera%20data">VERA-Daten und Informationen zur Erhebung finden Sie auf Github</a>.</p>
 
           </div>
 
@@ -66,7 +67,7 @@
             <p>
               Wir freuen uns sehr über Feedback, Kritik und Fragen. Kontaktieren
               Sie uns bitte unter
-              <a href="mailto:info@okfn.de">dieser Mail-Adresse</a>
+              <a href="mailto:maximilian.voigt@okfn.de">dieser Mail-Adresse</a>
             </p>
           </div>
           <div>

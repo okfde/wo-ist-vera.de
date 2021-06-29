@@ -52,7 +52,7 @@
     </div>
   </div>
 </template>
-.
+
 <script setup>
 import { computed, defineProps } from 'vue';
 import { useHead } from '@vueuse/head';
