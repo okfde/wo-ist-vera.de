@@ -19,7 +19,7 @@
         :to="`/methodik/#${selectedCategory.slug}`"
         v-if="selectedCategory.slug !== 'gesamt'"
       >
-        Mehr Informationen...
+        - mehr Informationen...
       </router-link>
     </div>
 
