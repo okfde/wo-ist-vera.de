@@ -15,7 +15,7 @@
         In Deutschland wird Bildungspolitik in einer Blackbox gemacht. Es gibt kaum Länder, die so wenig über ihr Schulsystem wissen, wie Deutschland. Und die wenigen Daten, die vorliegen, halten die Bundesländer weitestgehend unter Verschluss. Wie problematisch das ist, zeigt sich gerade besonders: Alle reden über pandemiebedingte Lernrückstände, aber inwiefern die genau existieren, weiß niemand so genau - weil die Daten nicht vorliegen. Wie sollen so effektive Maßnahmen ergriffen werden?
         </p>
         <p>
-        Dabei werden Daten erhoben und das schon seit Jahren. Die sogenannten VERgleichsArbeiten (kurz VERA) sind weitestgehend standardisierte Kompetenztests. Mit ihnen werden Grundkompetenzen erhoben, wie Lesefähigkeit, Schreibfähigkeit oder mathematische Grundkenntnisse. Auf Wo-ist-VERA.de veröffentlichen wir zum ersten Mal vorhandene Daten an einem zentralen Ort und wollen eine Diskussion über ihre Nutzbarkeit initiieren. Außerdem machen wir über ein Ranking sichtbar, welche Bundesländer bei der Veröffentlichung blockieren.
+        Dabei werden Daten erhoben und das schon seit Jahren. Die sogenannten VERgleichsArbeiten (kurz VERA) sind weitestgehend standardisierte Kompetenztests. Mit ihnen werden Grundkompetenzen erhoben, wie Lesefähigkeit, Schreibfähigkeit oder mathematische Grundkenntnisse. Auf Wo-ist-VERA.de veröffentlichen wir zum ersten Mal vorhandene Daten (vorerst VERA 3) an einem zentralen Ort und wollen eine Diskussion über ihre Nutzbarkeit initiieren. Außerdem machen wir über ein Ranking sichtbar, welche Bundesländer bei der Veröffentlichung blockieren.
         </p>
         <p>
         Sie können <router-link to="/methodik/">hier</router-link> mehr über
