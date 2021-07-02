@@ -47,7 +47,7 @@
 
               <p>
                 <strong>Kriterienbeschreibung:</strong>
-                <br>Informationen zur Kategorie "{{ detail.title }}" finden sie auf der <a style="text-decoration: underline;" :href="`${detail.description}`">Seite Methodik</a>.
+                <br>Informationen zur Kategorie "{{ detail.title }}" finden Sie auf der <a style="text-decoration: underline;" :href="`${detail.description}`">Seite Methodik</a>.
               </p>
             </div>
           </slide-up-down>

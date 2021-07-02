@@ -42,7 +42,13 @@
       </tr>
     </table>
 
+
     <state-details v-if="state.criteria" :performance="performance" />
+
+    <div class="text-center italic" v-if="state.info">
+        <br><strong>Weitere Informationen</strong>
+        <p>{{ state.info }}</p>
+    </div>
     <div class="btn-wrap" v-if="state.datalink">
        <a target="_blank" class="btn black" :href="`${state.datalink}`">VERA-Daten Herunterladen</a>
     </div>

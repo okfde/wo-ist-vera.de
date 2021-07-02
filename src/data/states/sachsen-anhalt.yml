@@ -4,6 +4,7 @@ year: 2008
 type: ifg
 fdsId: 13
 datalink: 'https://github.com/okfde/wo-ist-vera.de/tree/main/src/assets/vera%20data'
+info: "Sachsen-Anhalt veröffentlicht VERA 3 Ergebnisse nur für die zwei Schuljahre 2008/09 und 2013/14. Im Vergleich zur Berichterstattung der anderen Länder werden nur landesweite Erfüllungsprozentsätze für Teilkompetenzen berichtet, jedoch nicht der Anteil der Lernenden, die eine bestimmte Kompetenzstufe erreicht. Daher werden die Daten nicht im Datensatz aufgeführt - eine IFG-Anfrage läuft."
 criteria:
   - title: Transparenz der Daten
     points: 3

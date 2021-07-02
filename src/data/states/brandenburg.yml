@@ -5,6 +5,7 @@ updated: 2013
 datalink: 'https://github.com/okfde/wo-ist-vera.de/tree/main/src/assets/vera%20data'
 type: ifg
 fdsId: 3
+info: "Brandenburg veröffentlicht VERA 3 Landesberichte auf der Website des ISQ-BB, jedoch nur bis zum Schuljahr 2015/16."
 criteria:
   - title: Transparenz der Daten
     points: 3

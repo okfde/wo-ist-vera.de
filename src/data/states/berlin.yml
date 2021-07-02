@@ -5,6 +5,7 @@ updated: 2021
 type: ifg
 datalink: 'https://github.com/okfde/wo-ist-vera.de/tree/main/src/assets/vera%20data'
 fdsId: 4
+info: "Berlin veröffentlicht VERA 3 Landesberichte auf der Website des ISQ-BB, jedoch nur bis zum Schuljahr 2015/16."
 criteria:
   - title: Transparenz der Daten
     points: 3

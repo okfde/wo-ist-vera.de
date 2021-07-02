@@ -3,6 +3,7 @@ short: TH
 year: 2020
 type: tg
 datalink: 'https://github.com/okfde/wo-ist-vera.de/tree/main/src/assets/vera%20data'
+info: "Thürigen berichtet die Verteilung der Gesamtpunktzahl aller Thüringer Lernenden nach Teilkompetenzen. Im Vergleich zur Berichterstattung der anderen Länder wird jedoch nicht der Anteil der SchülerInnen, die eine bestimmte Kompetenzstufe erreicht, bestimmt. Daher sind die Ergebnisse nicht im Datensatz enthalten."
 fdsId: 10
 criteria:
   - title: Transparenz der Daten
