@@ -4,7 +4,8 @@ year: 2012
 updated: 2019
 type: ifg
 datalink: 'https://github.com/okfde/wo-ist-vera.de/tree/main/src/assets/vera%20data'
-fdsId: 11
+fdsId: 10
+info: Das Land hat selbstständig Daten aus den Jahren 2009/10 - 2018/19 veröffentlicht.
 criteria:
   - title: Transparenz der Daten
     points: 3
