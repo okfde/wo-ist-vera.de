@@ -19,7 +19,7 @@
         </p>
         <p>
         Sie können <router-link to="/methodik/">hier</router-link> mehr über
-        unsere Kriterien zur Erfassung des Rankings erfahren.
+        unsere Kriterien zur Erfassung des Rankings erfahren. Mehr Informationen zu VERA finden Sie auf der <a href="https://www.iqb.hu-berlin.de/vera" target="_blank">Seite des IQB</a>.
         </p>
         <ranking-map />
         <p><i>„Anonymisierte schulische Leistungsdaten sollten grundsätzlich allen.. Menschen zur Verfügung gestellt werden. Schule ist eine öffentliche.. Veranstaltung - also sollten auch alle.. so fundiert und differenziert wie möglich Einblick erhalten.“</i><br><strong>Jens Großpietsch</strong>, ehem. Schulleiter Heinrich von Stephan Gemeinschaftsschule, Mitbegründer der Freudberg Gemeinschaftsschule in Berlin.</p>
