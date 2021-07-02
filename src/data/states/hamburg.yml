@@ -4,6 +4,7 @@ year: 2020
 type: tg
 fdsId: 5
 datalink: 'https://github.com/okfde/wo-ist-vera.de/tree/main/src/assets/vera%20data'
+info: Die Daten wurden erst nach einer IFG-Anfrage veröffentlicht.
 criteria:
   - title: Transparenz der Daten
     points: 1
