@@ -13,4 +13,4 @@ Data for the federal states Schleswig-Holstein, North Rhine-Westphalia, Baden-WÃ
 To give scholarly credit for compiling these data please cite: 
 Bach, Maximilian & Fischer, Mira, 2020. "Understanding the Response to High-Stakes Incentives in Primary Education," IZA Discussion Papers 13845, Institute of Labor Economics (IZA).
 
-The data for the federal states Hamburg, Rhineland-Palatinate, and Mecklenburg-Western Pomerania come from freedom of information requests (Informationsfreiheitsgesetzanfragen) by Maximilian Voigt which can be viewed under www.fragedenstaat.de.
+The data for the federal states Hamburg, Rhineland-Palatinate, Saarland and Mecklenburg-Western Pomerania come from freedom of information requests (Informationsfreiheitsgesetzanfragen) by Maximilian Voigt which can be viewed under www.fragedenstaat.de.

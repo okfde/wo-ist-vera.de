@@ -4,17 +4,19 @@ year: 2006
 updated: 2015
 type: ifg
 fdsId: 9
-data: false
+data: true
+info: Die Daten wurden erst nach einer IFG-Anfrage veröffentlicht.
+datalink: 'https://github.com/okfde/wo-ist-vera.de/tree/main/src/assets/vera%20data'
 criteria:
   - title: Transparenz der Daten
-    points: 0
+    points: 1
     citation: ''
     limitation:
   - title: Vollständigkeit der Daten
-    points: 0
+    points: 10
     citation: ''
     limitation:
   - title: Auflösung der Daten
-    points: 0
+    points: 1
     citation: ''
     limitation:
