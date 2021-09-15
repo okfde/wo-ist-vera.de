@@ -11,7 +11,7 @@
 - title: Vollständigkeit der Daten
   slug: vollstaendigkeit
   color: '#ED6B1C'
-  description: Anzahl der veröffentlichten Jahreserhebungen, maximale Punktzahl 12
+  description: Anzahl der veröffentlichten Jahreserhebungen, maximale Punktzahl 13
 - title: Transparenz der Daten
   slug: qualitaet
   color: '#637EBE'
