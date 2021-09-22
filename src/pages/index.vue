@@ -4,7 +4,7 @@
 
     <div class="prose prose-lg text-center">
       <p class="max-w-screen-lg w-full text-center">
-        VERA - VERgleichsArbeiten - sind standardisierte Kompetenzerhebungen, die länderübergreifend Lernstände festhalten. Mit ihnen lässt sich der Erfolg bildungspolitischer Maßnahmen bestimmen. Doch sie stehen weitestgehend unter Verschluss. Wir machen sichtbar, welche Bundesländer blockieren und wo nachzubessern ist. Außerdem veröffentlichen wir die vorhandenen Daten in maschinenlesbarer Form.
+        VERA - VERgleichsArbeiten - sind standardisierte Kompetenzerhebungen, die länderübergreifend Lernstände festhalten. Mit ihnen könnte eine evidenzbasierte Bildungspolitik realisiert werden. Doch die Daten sind schlecht und stehen weitestgehend unter Verschluss. Wir machen sichtbar, welche Bundesländer blockieren und wo nachzubessern ist. Damit möchten wir den Diskurs zur Informationslage im Bildungsbereich anregen. Außerdem veröffentlichen wir erstmals vorhandene Daten in einem länderübergreifenden Datensatz.
       </p>
     </div>
 
